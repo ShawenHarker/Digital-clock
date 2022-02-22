@@ -24,6 +24,8 @@ const digitalClockTime = () => {
 }
 
 const start = () => {
+	digitalClockTime();
+	
 	setInterval(() => {
 		digitalClockTime();
 	}, 500);
