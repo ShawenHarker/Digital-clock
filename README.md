@@ -16,5 +16,11 @@ help me with building my skills further in problem solving and cerment my knowle
 and build on it adding more and more things to it pushing my knowledge and problem solving skills at building a solid 
 CAPSTONE project.
 
-Things I learnt within this build.
+Things I learnt while building this project.
 	- Writing clean code without using Emmet and auto filling my code.
+	- Problem Solving.
+	- Critical Thinking.
+	- Having Fun.
+
+The video tutorial I used was https://www.youtube.com/watch?v=JXHgDS8rIkM to help me with some guildlines on developing
+clock.
